@@ -6,13 +6,14 @@
     },
     {
       "key": "index-welcome",
-      "en": "Wishing you a happy Ramadan. May Allah bless your path with knowledge and light that will help to enlighten your heart. Have a blessed Ramadan.🤍🌙",
-      "ar": "أتمنى لكم رمضانًا سعيدًا أسأل الله أن يبارك طريقكم بالعلم والنور الذي يُنير قلوبكم ويهديكم للخير. رمضان مبارك عليكم، وجعله الله شهر خير وبركة عليكم وعلي عائلاتكم دائمًا 🤍🌙"
+      "en": "Wishing you a blessed and joyful Eid Al-Fitr. May Allah fill your days with happiness and peace, and accept our good deeds. Eid Mubarak to you and your loved ones. 🤍🌙",
+      "ar": "نتمنى لكم عيد فطر مبارك وسعيد، نسأل الله أن يبارك أيامكم بالفرح والطمأنينة، ويملأ حياتكم بالخير والنجاح، وأن يتقبل منا ومنكم صالح الأعمال. عيد مبارك عليكم وعلى أحبائكم دائمًا 🤍🌙"
     },
     {
       "key": "login-welcome",
       "en": "Wishing you a blessed Ramadan.",
-      "ar": "نتمنى لكم رمضــــان مبـــــارك."
+      "en": "Wishing you Eid-Fitr Mumarak.",
+      "ar": "عيـــــــــد فطـــــــــــر مبــــــــــارك."
     }
   ]
 
